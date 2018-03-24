@@ -5,8 +5,8 @@
 
 namespace Omnipay\Common;
 
-use Guzzle\Http\ClientInterface;
-use Guzzle\Http\Client as HttpClient;
+use GuzzleHttp\ClientInterface;
+use GuzzleHttp\Client as HttpClient;
 use Symfony\Component\HttpFoundation\ParameterBag;
 use Symfony\Component\HttpFoundation\Request as HttpRequest;
 

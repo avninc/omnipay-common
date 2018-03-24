@@ -5,7 +5,7 @@
 
 namespace Omnipay\Common\Message;
 
-use Guzzle\Http\ClientInterface;
+use GuzzleHttp\ClientInterface;
 use Omnipay\Common\CreditCard;
 use Omnipay\Common\Currency;
 use Omnipay\Common\Exception\InvalidRequestException;
